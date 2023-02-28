@@ -1,0 +1,56 @@
+.body{
+    background: #1E1E1E; 
+}
+.container1{
+width: 494px;
+height: 19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.container2{
+    width: 578px;
+    height: 158px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    
+}
+ .container3{
+width: 494px;
+height: 19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+
+ }
+ .container4{
+width: 578px;
+height: 167px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+ }
+ .container5{
+height: 19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+float: right;
+
+ }
